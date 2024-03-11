@@ -1,0 +1,21 @@
+div {
+    box-sizing: content-box;
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: pink;
+
+}
+ 
+div:hover{
+    color: blue;
+    background-color: black ;
+}
+h1 {
+    font-family: "Whisper", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
